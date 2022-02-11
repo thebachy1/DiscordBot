@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thebachy1/DiscordBot/issues"
   },
-  "homepage": "https://github.com/thebachy1/DiscordBot#readme"
+  "homepage": "https://github.com/thebachy1/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
